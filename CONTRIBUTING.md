@@ -71,7 +71,7 @@ Requires **Python 3.10+**. On Windows, use `py` (the Python launcher),
 not `python`.
 
 ```bash
-git clone https://github.com/JordanNewell/newell-typeface.git
+git clone https://github.com/newellart/newell-typeface.git
 cd newell-typeface
 py -m pip install -r requirements.txt
 ```
