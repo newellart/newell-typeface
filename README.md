@@ -2,8 +2,8 @@
 
 ![Newell wordmark](assets/wordmark.png)
 
-[![CI](https://github.com/JordanNewell/newell-typeface/actions/workflows/ci.yml/badge.svg)](https://github.com/JordanNewell/newell-typeface/actions/workflows/ci.yml)
-[![Release](https://github.com/JordanNewell/newell-typeface/actions/workflows/release.yml/badge.svg)](https://github.com/JordanNewell/newell-typeface/actions/workflows/release.yml)
+[![CI](https://github.com/newellart/newell-typeface/actions/workflows/ci.yml/badge.svg)](https://github.com/newellart/newell-typeface/actions/workflows/ci.yml)
+[![Release](https://github.com/newellart/newell-typeface/actions/workflows/release.yml/badge.svg)](https://github.com/newellart/newell-typeface/actions/workflows/release.yml)
 [![License: OFL](https://img.shields.io/badge/license-OFL--1.1-success.svg)](OFL.txt)
 
 > A display typeface built from parallel rails and decisive 45° diagonals.
@@ -19,10 +19,10 @@ hand-drawn, so the entire alphabet inherits one visual grammar.
 
 ## Links
 
-- **Live site:** <https://jordannewell.github.io/newell-typeface/>
-- **Try it (interactive):** <https://jordannewell.github.io/newell-typeface/try.html>
-- **Technical specimen:** <https://jordannewell.github.io/newell-typeface/specimen/>
-- **Latest release:** <https://github.com/JordanNewell/newell-typeface/releases/latest>
+- **Live site:** <https://newellart.github.io/newell-typeface/>
+- **Try it (interactive):** <https://newellart.github.io/newell-typeface/try.html>
+- **Technical specimen:** <https://newellart.github.io/newell-typeface/specimen/>
+- **Latest release:** <https://github.com/newellart/newell-typeface/releases/latest>
 - **Roadmap:** vault `10_PROJECTS/newell-typeface/ROADMAP.md`
   (removed from the repo per the plan-doc guard)
 

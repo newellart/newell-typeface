@@ -22,7 +22,7 @@ VERSION_MINOR = 2
 COPYRIGHT = "Copyright 2026 Jordan Newell"
 DESIGNER = "Jordan Newell"
 MANUFACTURER = "Jordan Newell"
-PROJECT_URL = "https://jordannewell.github.io/newell-typeface/"
+PROJECT_URL = "https://newellart.github.io/newell-typeface/"
 DESIGNER_URL = "https://jordannewell.com"
 LICENSE_URL = "https://openfontlicense.org"
 LICENSE_NAME = (
@@ -33,7 +33,7 @@ LICENSE_NAME = (
 DESCRIPTION = (
     "Newell is an original geometric display typeface built from parallel "
     "rails and 45-degree diagonals with squared terminals. No curves. "
-    "Engineered, not drawn. https://jordannewell.github.io/newell-typeface/"
+    "Engineered, not drawn. https://newellart.github.io/newell-typeface/"
 )
 TRADEMARK = "Newell is a trademark of Jordan Newell."
 VENDOR_ID = "JNEW"  # 4-character OS/2 vendor ID
